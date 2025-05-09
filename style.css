@@ -59,7 +59,7 @@ button{
 .equals{
     background-color: #4CAF50;
     color: white;
-    grid-columns:1/2;
+    grid-column:1/2;
 }
 .equals:active{
     background-color: #6fe775;
