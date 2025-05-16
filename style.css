@@ -52,7 +52,7 @@ button{
     cursor: pointer;
     border-radius: 40px;
     background-color: transparent;
-    box-shadow: 0px 0px 20px rgba(225, 225, 225, 0.2) inset;
+    box-shadow: 0px 0px 20px rgba(225, 225, 225, 0.2);
 }
 .lightDark{
     position: absolute;
